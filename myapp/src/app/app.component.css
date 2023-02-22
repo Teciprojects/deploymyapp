@@ -1,0 +1,9 @@
+input.ng-untouched{
+    border-bottom: 2px solid red;
+}
+input.ng-touched{
+   border-bottom: 2px solid rgb(8, 117, 13);
+}
+.error {
+   color: red;
+}
